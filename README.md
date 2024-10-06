@@ -1,12 +1,4 @@
 ## Installation
-
-1. **Clone the Repository**
-
-    ```bash
-    git clone https://github.com/shubhamc1947/realtime-code-editor-MERN.git
-    cd realtime-code-editor-MERN
-    ```
-
 2. **Install Dependencies**
 
     For the server:
