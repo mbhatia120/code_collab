@@ -1,18 +1,3 @@
-# CollabCode (MERN)
-
-https://github.com/user-attachments/assets/8bd27627-7bfc-44af-ba29-b282b8c06e8a
-
-
-
-Welcome to the Real-Time Code Editor project! This application allows multiple users to collaborate on coding in real-time. Built using the MERN stack (MongoDB, Express, React, Node.js) and WebSockets, it provides a seamless experience for code sharing and editing.
-
-## Features
-
-- **Real-Time Collaboration**: Multiple users can edit the code simultaneously, with changes reflected in real-time.
-- **Syntax Highlighting**: Supports syntax highlighting for multiple programming languages using CodeMirror.
-- **Authentication**: Secure user authentication with JWT.
-- **Room Management**: Users can create or join rooms using a room ID.
-
 ## Installation
 
 1. **Clone the Repository**
@@ -81,28 +66,5 @@ Welcome to the Real-Time Code Editor project! This application allows multiple u
 - **Backend**: Node.js, Express, MongoDB
 - **Real-Time Communication**: WebSockets (Socket.io)
 - **Authentication**: JWT
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any bugs, improvements, or new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, please contact:
-
-- **Name**: Shubham Chaturvedi
-- **Email**: shubhamchat224122@gmail.com
-
-## Acknowledgements
-
-Special thanks to all contributors and users of this project.
-
----
-
-Thank you for using the Real-Time Code Editor! Happy coding!
 
 
